@@ -1,3 +1,6 @@
+这里不再更新。
+fork到我的项目里了：https://github.com/jasoncodingnow/N0041-argiculture-supplychain
+
 ### 基于区块链的农业供应链解决方案demo
 
 #### 说明
